@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Generador de Estrategias con IA Local
 
 Proyecto desarrollado para el curso AD5018 – Inteligencia Artificial para Negocios.
@@ -53,3 +54,6 @@ Elemento	¿Lo necesitas?	Te lo armo
 ✅ Logo o imagen para portada de informe	Si quieres algo más visual	🎨 Sí
 ✅ Código QR del GitHub para la presentación	Para insertarlo en la PPT o Word	📎 Sí
 ✅ Mini pitch o guion para tu video demo	Si necesitas grabarlo	🎤 Sí
+=======
+# ia-negociosfut
+>>>>>>> fb9b502e52e83eabd64722e37f413065d2323b02
